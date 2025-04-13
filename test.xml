@@ -5885,7 +5885,7 @@ return [==[
 <Properties>
 <string name="Name">ReplicatedFirst</string>
 <string name="ExplorerOrder">30</string>
-<string name="ExplorerImageIndex">71</string>
+<string name="ExplorerImageIndex">70</string>
 </Properties>
 <Item class="ReflectionMetadataFunctions">
 <Item class="ReflectionMetadataMember">
